@@ -23,7 +23,7 @@ The purpose of your code is to create a fully automated farming system using fun
 
 ### Option 2: Downloading as a ZIP file
 
-1. Download the repository as a ZIP file from [`here`](https://github.com/insivam/feder-cr/the-farmer-was-replaced/archive/refs/heads/main.zip).
+1. Download the repository as a ZIP file from [`here`](https://github.com/insivam/the-farmer-was-replaced/archive/refs/heads/main.zip).
 
 2. Extract the contents of the ZIP file to your game's save folder, which is usually located at:
    
